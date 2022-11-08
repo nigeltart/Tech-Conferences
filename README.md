@@ -1,5 +1,5 @@
 # Tech-Conferences
-Resources for a warm up talk to Brighton Data Forum, hopefully Nov 22: <br>Presentation, Spreadsheet, Speaker's Notes and Jupyter Notebook
+Resources for a warm up talk to Brighton Data Forum, hopefully Nov 22: Presentation, Spreadsheet, Speaker's Notes and Jupyter Notebook
 <br>
 * The talk starts with me simply describing the few conferences I've attended (2019-22) and encouraging more people to attend one. <br>
 * I show a spreadsheet with missing ratings for a conference that was cancelled because of covid. <br>
